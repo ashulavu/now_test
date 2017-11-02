@@ -3,6 +3,8 @@
 
 ---
 
+HELLO WORLD!
+
 Example [Jekyll] website using GitLab Pages.  View it live at https://pages.gitlab.io/jekyll
 
 [Learn more about GitLab Pages](https://pages.gitlab.io) or read the the [official GitLab Pages documentation](https://docs.gitlab.com/ce/user/project/pages/).
